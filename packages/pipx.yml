@@ -94,6 +94,7 @@ inject:
     jupyterlab-git
     jupyterlab-lsp
     jupyterlab-pullrequests
+    jupyterlab-spellchecker
     jupytext
     lckr-jupyterlab-variableinspector
     mccabe

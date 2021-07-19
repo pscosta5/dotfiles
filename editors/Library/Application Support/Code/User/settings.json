@@ -56,6 +56,8 @@
   },
   "files.autoSave": "afterDelay",
   "git.autofetch": true,
+  "gitmoji.outputType": "code",
+  "gitmoji.showEmojiCode": true,
   "markdown-preview-enhanced.breakOnSingleNewLine": false,
   "markdown-preview-enhanced.previewTheme": "atom-material.css",
   "markdown.extension.italic.indicator": "_",

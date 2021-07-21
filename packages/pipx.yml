@@ -23,6 +23,7 @@ install:
   - hiplot
   - httpie
   - invoke
+  - jupyter-book
   - jupyterlab
   - j2cli[yaml]
   - kaggle
@@ -74,6 +75,7 @@ inject:
     flake8-docstrings
     flake8-rst-docstrings
     pep8-naming
+  jupyter-book: pyppeteer
   # Add jupyterlab-flake8 when supported
   jupyterlab: >
     aquirdturtle_collapsible_headings
@@ -87,7 +89,6 @@ inject:
     ipympl
     ipyvuetify
     isort[colors]
-    jupyter-book
     jupyterlab_code_formatter
     jupyterlab_github
     jupyterlab_widgets

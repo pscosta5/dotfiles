@@ -6,5 +6,5 @@ elif [[ "$1" = "-a" ]] || [[ "$1" = "--all" ]]; then
 else
     local file
     file="$1"
-    scp "${DEV}:/home/${FB_USERNAME}/temp/${file}" ~/Downloads/"${file}"
+    scp -r "${DEV}:/home/${FB_USERNAME}/temp/${file}" ~/Downloads/"${file}"
 fi

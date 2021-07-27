@@ -74,6 +74,8 @@
 - pomber.git-file-history
 - ptweir.python-string-sql
 - redhat.vscode-yaml
+- RandomFractalsInc.vscode-data-table
+- RandomFractalsInc.vscode-data-preview
 - rangav.vscode-thunder-client
 - ryanluker.vscode-coverage-gutters
 - samuelcolvin.jinjahtml
@@ -90,6 +92,7 @@
 - timonwong.shellcheck
 - tomoki1207.pdf
 - Tyriar.sort-lines
+- vscode-vega-viewer
 - VisualStudioExptTeam.vscodeintellicode
 - vsls-contrib.gitdoc
 - vsls-contrib.gistfs

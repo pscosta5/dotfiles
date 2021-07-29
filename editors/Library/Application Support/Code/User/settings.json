@@ -35,6 +35,8 @@
   },
   "autoDocstring.docstringFormat": "numpy",
   "autoDocstring.startOnNewLine": true,
+  "carbon.theme": "material",
+  "carbon.fontFamily": "Fira Code",
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.fontFamily": "FiraCode Nerd Font", // https://www.nerdfonts.com/font-downloads
   "editor.fontLigatures": true,

@@ -10,6 +10,10 @@ zsh_autocomplete:
 zsh-edit:
   repo: "https://github.com/marlonrichert/zsh-edit.git"
   directory: "/.oh-my-zsh/custom/plugins/zsh-edit"
+# Might need to add symbolic link with proper naming
+zsh-poetry:
+  repo: "https://github.com/darvid/zsh-poetry"
+  directory: "/.oh-my-zsh/custom/plugins/zsh-poetry"
 fast-syntax-highlighting:
   repo: "https://github.com/zdharma/fast-syntax-highlighting.git"
   directory: "/.oh-my-zsh/custom/plugins/fast-syntax-highlighting"

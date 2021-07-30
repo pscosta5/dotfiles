@@ -101,6 +101,7 @@ plugins=(
     zsh-autocomplete
     zsh-autosuggestions
     zsh-edit
+    zsh-poetry
 )
 
 # Functions

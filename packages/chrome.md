@@ -30,3 +30,13 @@ Google Chrome is your default browser
 #### Spell check
 
 - [x] Enhanced spell check
+
+## Search engine
+
+### Manage search engines
+
+#### Other search engines
+
+| Search engine     | Keyword | Query URL   |
+| ----------------- | ------- | ----------- |
+| Leave address bar | u       | javascript: |

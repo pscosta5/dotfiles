@@ -150,3 +150,4 @@ Delay Until Repeat
 | iTerm         | Application | ☑   |
 | Kap           | Application | ☑   |
 | Trex          | Application | ☑   |
+| Yippy         | Application | ☑   |

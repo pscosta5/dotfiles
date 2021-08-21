@@ -152,6 +152,7 @@ cask "trex"
 cask "unclack"
 cask "visual-studio-code"
 cask "windscribe"
+cask "yippy"
 mas "Amphetamine", id: 937984704
 mas "Encrypto", id: 935235287
 mas "Flow", id: 1423210932

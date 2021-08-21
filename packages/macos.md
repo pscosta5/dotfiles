@@ -149,3 +149,4 @@ Delay Until Repeat
 | Lunar         | Application | ☑   |
 | iTerm         | Application | ☑   |
 | Kap           | Application | ☑   |
+| Trex          | Application | ☑   |

@@ -107,6 +107,7 @@ plugins=(
     pyenv
     python
     virtualenv
+    virtualenv-autodetect
     zsh-autocomplete
     zsh-autosuggestions
     zsh-edit

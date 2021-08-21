@@ -406,6 +406,28 @@
 					<string>Numba</string>
 				</dict>
 			</dict>
+			<key>Pillow</key>
+			<dict>
+				<key>date</key>
+				<date>2021-08-21T21:11:14Z</date>
+				<key>entry</key>
+				<dict>
+					<key>aliases</key>
+					<array>
+						<string>PIL</string>
+					</array>
+					<key>authorLinkHref</key>
+					<string>https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/Pillow#readme</string>
+					<key>authorLinkText</key>
+					<string>Gerry Gao</string>
+					<key>name</key>
+					<string>Pillow</string>
+					<key>platform</key>
+					<string>usercontribPillow</string>
+					<key>uniqueIdentifier</key>
+					<string>Pillow</string>
+				</dict>
+			</dict>
 			<key>Presto</key>
 			<dict>
 				<key>date</key>

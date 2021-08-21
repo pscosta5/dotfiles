@@ -1,6 +1,9 @@
 # git clone packages
 # Run `git clone REPO DIRECTORY`
 # Paths are relative to $HOME
+virtualenv-autodetect:
+  repo: "https://github.com/RobertDeRose/virtualenv-autodetect"
+  directory: "/.oh-my-zsh/custom/plugins/virtualenv-autodetect"
 zsh_autosuggestions:
   repo: "https://github.com/zsh-users/zsh-autosuggestions"
   directory: "/.oh-my-zsh/custom/plugins/zsh-autosuggestions"

@@ -7,6 +7,7 @@ Apps that you can't get from a package manager (yet!).
 - [5127](https://web.5217.app/)
 - [Canvas](https://canvas.apps.chrome/)
 - [Carbon](https://carbon.now.sh/)
+- [Excalidraw](https://excalidraw.com/)
 - [Google Duo](https://duo.google.com/)
 - [Google Drive](https://drive.google.com/)
 - [Google Photos](https://photos.google.com/)

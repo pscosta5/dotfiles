@@ -1,0 +1,3 @@
+# Trash all files on the desktop
+
+trash -v ~/Desktop/*

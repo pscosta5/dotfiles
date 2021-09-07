@@ -49,6 +49,7 @@ install:
   - remarshal
   - reorder-python-imports
   - shell-functools
+  - skimpy
   - sqlfluff
   - sqlite-utils
   - termtosvg

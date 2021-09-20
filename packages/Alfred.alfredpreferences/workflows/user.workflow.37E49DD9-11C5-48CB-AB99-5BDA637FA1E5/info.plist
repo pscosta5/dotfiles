@@ -123,6 +123,10 @@
 				<false/>
 				<key>focusedappvariablename</key>
 				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -165,7 +169,7 @@
 				<key>runningsubtext</key>
 				<string>Searching…</string>
 				<key>script</key>
-				<string>./SnippetsLabAlfredWorkflow --search "{query}"</string>
+				<string>./SnippetsLabAlfredWorkflow --action=search --query="{query}"</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -194,7 +198,7 @@
 				<key>escaping</key>
 				<integer>110</integer>
 				<key>script</key>
-				<string>./SnippetsLabAlfredWorkflow --fetch "{query}"</string>
+				<string>./SnippetsLabAlfredWorkflow --action=fetch --query="{query}"</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -239,6 +243,10 @@
 				<false/>
 				<key>focusedappvariablename</key>
 				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -340,7 +348,7 @@
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.9.3</string>
+	<string>2.0</string>
 	<key>webaddress</key>
 	<string>https://www.renfei.org/snippets-lab/</string>
 </dict>

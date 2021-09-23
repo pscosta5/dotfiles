@@ -21,7 +21,7 @@
   "filterLinkHints": false,
   "waitForEnterForFilteredHints": true,
   "hideHud": false,
-  "keyMappings": "# Insert your preferred key mappings here.\nunmapAll\nmap <a-/> LinkHints.activateMode\nmap <a-?> LinkHints.activateModeToOpenInNewTab\nmap <c-n> scrollDown\nmap <c-p> scrollUp\nmap <c-/> focusInput",
+  "keyMappings": "# Insert your preferred key mappings here.\nunmapAll\nmap <a-/> LinkHints.activateMode\nmap <a-?> LinkHints.activateModeToOpenInNewTab\nmap <c-n> scrollDown\nmap <c-p> scrollUp\nmap <c-b> scrollLeft\nmap <c-f>  scrollRight\nmap <c-/> focusInput",
   "linkHintCharacters": "sadfjklewcmpgh",
   "linkHintNumbers": "0123456789",
   "newTabUrl": "about:newtab",
